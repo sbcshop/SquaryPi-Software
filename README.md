@@ -9,7 +9,7 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 * Status LED
 * USB Type-C
 * SD Card Slot
-* 1.14" LCD Display
+* 1.54" LCD Display
 * Charging IC(MCP73831)
 * Battery Connector
 
@@ -17,11 +17,14 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 
 * Operating voltage of 3.3v/5v
 * Resolution 240 x 240 pixels
-* I2C communication Interface 
-* Display size of 24.91 x 14.86mm
+* I2C communication Interface
+* 350 nits brightness 
+* ST7789 driver
 * IPS display panel
 * Pixel Size 0.1101 x 0.1035mm
 * ST7789 driver
 * Dimension 35 x 32.00mm
+* 65K RGB colors
+
 
 
