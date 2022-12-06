@@ -13,7 +13,7 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 * Charging IC(MCP73831)
 * Battery Connector
 
-## LCD Specifications:
+## Features of LCD:
 
 * Operating voltage of 3.3v/5v
 * Resolution 240 x 240 pixels
