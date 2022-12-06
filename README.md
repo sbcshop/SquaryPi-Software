@@ -27,4 +27,4 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 * 65K RGB colors
 
 
-
+## image
