@@ -6,13 +6,13 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 
 ## Repository Contents
 
-* [**/Python_Codes**]() - This directory contains Micropython Example codes and Library
-* [**/C_CPP_Codes**]() - This directory contains C and C++ Example codes and Library for Arduino IDE
+* [**/Python_Package**](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - This directory contains Step by Guide, Micropython Example codes and Library
+* [**/C_Package**](https://github.com/sbcshop/SquaryPi-Software/tree/main/C_Package) - This directory contains Step by Step guide, C/C++ Example codes and Library for Arduino IDE
 
 ## Learning Guide
 
-* [Getting Started with Micropython]() - Step by step guide to start with SquaryPi in Micropython
-* [Getting Started with Arduino IDE]() - Step by step guide to start with SquaryPi in Arduino IDE
+* [Getting Started with Micropython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with SquaryPi in Micropython
+* [Getting Started with Arduino IDE](https://github.com/sbcshop/SquaryPi-Software/tree/main/C_Package) - Step by step guide to start with SquaryPi in Arduino IDE
 * [Python Library]() - This library provides all the functions/class to play with SquaryPi using Python Language
 * [C Library]() - This library provides all the functions/class to play with SquaryPi using C/C++ Language
 
