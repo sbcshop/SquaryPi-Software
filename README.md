@@ -18,7 +18,7 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 
 ## Documentation
 
-* [SquaryPi Hardware](https://github.com/sbcshop/SquaryPi)
+* [SquaryPi Hardware](https://github.com/sbcshop/SquaryPi-Hardware)
 * [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
