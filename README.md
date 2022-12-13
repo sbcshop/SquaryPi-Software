@@ -1,4 +1,4 @@
-# SquaryPi-Hardware
+# SquaryPi-Software
 
 <img src ="https://cdn.shopify.com/s/files/1/1217/2104/products/1_5874b3b5-2a2f-453e-bf54-abbf2a26acb9.png?v=1670307456&width=600" height=400 />
 
