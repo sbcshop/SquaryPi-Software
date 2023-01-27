@@ -12,6 +12,6 @@ Follow the steps below to start working with our SquaryPi board:
 
 ### Display Images using Circuit Python
 
-To start working working with this ***Example code of circuit python***, you have to upload the firmware of circuit pyhton provide in this ***directory(Display Images)***. For how to uplaod firmware [click here](https://shop.sb-components.co.uk/blogs/posts/getting-started-with-python-micro-python for ***quick guidance of circuit pyhton.***
+To start working working with this ***Example code of circuit python***, you have to upload the firmware of circuit pyhton provide in this ***directory(Display Images)***. For how to uplaod firmware [click here](https://shop.sb-components.co.uk/blogs/posts/getting-started-with-python-micro-pythonP) for ***quick guidance of circuit pyhton.***
 
 * After uploading firmware you will see your board as flash drive in your computer system
