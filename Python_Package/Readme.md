@@ -16,7 +16,7 @@ To start working working with this ***Example code of circuit python***, you hav
 
 * After uploading firmware you will see your board as flash drive in your computer system.
 
-Now, open the folder Display_Images, inside this folder their is sub-folder one is ***Display_Images from PC and another one is Display images from SDCard*** folder.
+Now, open the folder Display_Images, inside this folder their is sub-folder one is ***picture_display.py from PC and another one is Display images from SDCard*** folder.
 
  * **Display Images from PC** -> For display images in EncroPi we use CircuitPython because it is very easy, it is developed by adafruit industries, First of all, we need to insert the circuit python to the roundypi(it is circuit python firmware "adafruit-circuitpython-raspberry_pi_pico-en_US-7.1.1.uf2").   
 You can also display your custom images, for this you need to go "images" folder and save your images by changing its formate and resolution according to lcd display.
