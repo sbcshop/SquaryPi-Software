@@ -12,8 +12,8 @@
      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />  
      When you properly insert the circuitpython then you see a new device that looks like the below image:-
      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img11.png" />
-     
-      After this go to run->select interpreter,choose device and port
+    
+     After this go to run->select interpreter,choose device and port
          <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img18.png" />
          <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img19.png" />
          <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img20.png" />
