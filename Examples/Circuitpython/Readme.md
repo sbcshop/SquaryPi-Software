@@ -6,8 +6,7 @@
 
 
 * Install **CircuitPython** in SquaryPi
-
-     Insert the circuit python to the SquaryPi(it is circuit python firmware "firmware_circuitpython.uf2"). for this first you need to        press the boot button then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named "RPI-RP2" drag this      file "firmware_circuitpython.uf2" to this device as shown in figure:
+First, push the boot button, then connect the USB; do not release the button until the USB is connected to the laptop. Next you'll see a new gadget called "RPI-RP2." Drag the "firmware circuitpython.uf2" file to this device, as indicated in Figure:
      this is the official website, or yoy can download from here https://circuitpython.org/board/raspberry_pi_pico/
      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />  
      When you properly insert the circuitpython then you see a new device that looks like the below image:-
