@@ -19,10 +19,6 @@ To start working working with this ***Example code of circuit python***, you hav
          <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img20.png" />
     
 
-
-
-* After uploading firmware you will see your board as flash drive in your computer system.
-
 Now, open the folder Display_Images, inside this folder their is sub-folder one is ***picture_display.py from PC and another one is Display images from SDCard*** folder inside this folder their is a file ***display_image_sdcard_circuitpython.py*** save or run this file for display images.
 
  * **Display Images from PC** -> For display images in EncroPi we use CircuitPython because it is very easy, it is developed by adafruit industries, First of all, we need to insert the circuit python to the roundypi(it is circuit python firmware "firmware_circuitpython.uf2").   
