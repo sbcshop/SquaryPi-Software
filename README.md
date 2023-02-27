@@ -10,7 +10,7 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
  
  ***Button 2 - Boot***
  
- ***Button 3 - GP24***
+ ***Button 3 - GP22***
  
  ***Button 4 - GP23***
  
