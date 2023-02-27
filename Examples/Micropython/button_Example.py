@@ -4,11 +4,10 @@ from machine import Pin
 
 gp22 = machine.Pin(22, machine.Pin.OUT)
 gp23 = machine.Pin(23, machine.Pin.OUT)
-gp24 = machine.Pin(25, machine.Pin.OUT)
+gp24 = machine.Pin(24, machine.Pin.OUT)
 
-gp22.value(1)
-gp23.value(1)
-gp24.value(1)
+gp25 = machine.Pin(25, machine.Pin.OUT) #onboard led
+gp25.value(1)
 
 button1 = Pin(22, Pin.IN, Pin.PULL_UP) 
 button2 = Pin(23, Pin.IN, Pin.PULL_UP)
