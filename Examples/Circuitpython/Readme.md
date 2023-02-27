@@ -19,7 +19,7 @@
          <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img20.png" />
     
 
-Now, open the folder CircuitPython, inside this folder their is sub-folder one is ***Display images from PC and another one is Display images from SDCard*** folder inside this folder their is a file ***display_images.py*** save or run this file for display images.
+Now, enter the CircuitPython folder; within this folder, there are two sub-folders: ***Display pictures from PC*** and ***Display images from SDCard***. There is a file ***display image.py*** inside these folders that you may save or execute to display images (save as code.py to have the code run automatically when the power is turned on).
 
  * **Display Images from PC** -> For display images in EncroPi we use CircuitPython because it is very easy, it is developed by adafruit industries, First of all, we need to insert the circuit python to the roundypi(it is circuit python firmware "firmware_circuitpython.uf2").   
 You can also display your custom images, for this you need to go "images" folder and save your images by changing its formate and resolution according to lcd display.
