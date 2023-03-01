@@ -43,7 +43,7 @@ Follow the steps below to start working with our SquaryPi board:
 
 ## Documentation
 
-* [SquaryPi Hardware](https://github.com/sbcshop/SquaryPi-Hardware)
+* [SquaryPi Hardware](https://github.com/sbcshop/SquaryPi-Hardware) 
 * [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
