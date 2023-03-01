@@ -22,7 +22,8 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 
 ## Learning Guide
 
-* [Getting Started with Micropython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with SquaryPi in Micropython
+* [Getting Started with MicroPython](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - Step by step guide to start with SquaryPi in Micropython
+* [Getting Started with CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 * [Getting Started with Arduino IDE](https://github.com/sbcshop/SquaryPi-Software/tree/main/C_Package) - Step by step guide to start with SquaryPi in Arduino IDE
 * [Python Library](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package/Library) - This library provides all the functions/class to play with SquaryPi using Python Language
 * [C Library](https://github.com/sbcshop/SquaryPi-Software/tree/main/C_Package/Library) - This library provides all the functions/class to play with SquaryPi using C/C++ Language
