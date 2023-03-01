@@ -1,8 +1,8 @@
 ### Working with Micropython
 
 
-## Uploading Firmware
-Before start working with SquaryPi board, first you have to upload the latest firmwae proided in this repository ***firmware.uf2*** file. So, for updating the firmware in your SquaryPi board follow the steps below:
+## Uploading Micropython Firmware
+Before start working with SquaryPi board, first you have to upload the latest firmware(Micropython) proided in this repository ***firmware.uf2*** file. So, for updating the firmware in your SquaryPi board follow the steps below:
 
 * Step.1 - Download the Zip file of this repo. in your sysytem and extract it.
 * Step.2 - After extracting the Zip file you will get a folder of ***SquaryPi_Software*** open this folder and locate the firmawre file.
