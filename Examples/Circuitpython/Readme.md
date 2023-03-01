@@ -29,6 +29,6 @@ Now, you need to run the python code file provided in this folder (i.e, images_d
   * **Display Images From SD Card** -> For this, we need to insert the circuit python to the roundypi(it is circuit python firmware "firmware_circuitpython.uf2"). 
  Now, follow all the process of **Display Images from PC**,you only have to simply save the images containing in this directory (Do not save images in any directory when storing in SDCard). Finally, run the python code provided in this directory (i.e, display_image_sdcard_circuitpython.py)
 
-Note - All liberary file should be saved in Lib folder of Circuit python.
+Note - All liberary file should be saved in this directory of Circuit python as shown in below image .
 
 <img src = "https://github.com/sbcshop/SquaryPi-Software/blob/main/images/img.JPG"/>
