@@ -1,4 +1,4 @@
-### Working with SquaryPi
+### Working with Micropython
 
 * Save ```Lib_SquaryPi.py``` Library inside SquaryPi, as shown in figure
 
