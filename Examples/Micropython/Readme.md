@@ -23,10 +23,10 @@ Before start working with SquaryPi board, first you have to upload the latest fi
 <img src = "https://github.com/sbcshop/SquaryPi-Software/blob/main/images/img3.png"/>
 
 ## Run Example Code
-   * Accelerometer_Example.py
-   * SDCard_Acc._Example.py
-   * battery_measure.py
-   * button_Example.py
+   * Accelerometer_Example.py - Run Accelerometer
+   * SDCard_Acc._Example.py   - Run SD Card
+   * battery_measure.py       - Measure Battery Voltage
+   * button_Example.py        - Use of Buttons
 
 
 
