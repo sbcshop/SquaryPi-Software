@@ -14,7 +14,7 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
  
  ***Button 4 - GP23***
  
-## Repository Contents
+## Repository Codes
 
   * [CircuitPython Examples](https://github.com/sbcshop/SquaryPi-Software/tree/main/Examples/Circuitpython)
 
